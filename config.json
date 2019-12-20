@@ -1,0 +1,32 @@
+{
+    "settings" : {
+        "password" : "",
+        "prefix" : "cc.",
+        "cafeServer" : "",
+        "version" : "2.0"
+    },
+    "channels" : {
+        "welcomeChannel" : "",
+        "cafeCounter" : "",
+        "botTesting" : "",
+        "verificationChannel" : "",
+        "auditChannel" : "",
+        "awaitingVerification" : ""
+    },
+    "roles" : {
+        "moderator" : "",
+        "trialModerator" : "",
+        "bots" : "",
+        "administrator" : "",
+        "luaLearner" : "",
+        "muted": "",
+        "awaitingVerification" : ""
+    },
+    "greetings" : {
+        "luaExpertsParagraph" : "If you are a seasoned Lua scripter, we implore you to give back to the community. Consider passing on your invaluable knowledge and skills to others who are just as ambitious to learn as you were. **__Knowledge should be free and accessible to all, and here at Coding Café that is the atittude we hope to inspire.__**",
+        "luaStudentsParagraph" : "If you already know quite a bit of Lua, this is still the place for you! Everybody, no matter how experienced is always learning and because Lua.RBX is periodically updated, it's important to stay in the loop. This community provides facilites for you to troubleshoot your scripts and continue learning.",
+        "luaBeginnersParagraph" : "If you're a Lua beginner check out the #lua channel under the Tutorials category. From here you can learn about Lua, what it is and how to use it!",
+        "footer" : "If you have any questions, concerns or propositions please feel free to message Wure#0979!",
+        "offlineWelcomeIntroduction" : "Woops, it looks like when you joined Coding Café I was sleeping. Sorry about that and welcome to the crew!"
+    }
+}

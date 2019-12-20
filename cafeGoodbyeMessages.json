@@ -1,0 +1,7 @@
+{
+    "messages" : [ ":( our beloved ${member} just left the server.", 
+                   "${member} has parted from us. Farewell amigo.", 
+                   "${member} has dropped the mic.",
+                   "Smell ya later, ${member}"
+                 ]
+    }

@@ -1,0 +1,15 @@
+{
+"messages" : [ "Hide! ${member} just got here!", 
+               "A wild ${member} has appeared.", 
+               "What's that coming over the hill? It's a ${member}!",
+               "Well, hello there ${member}.",
+               "Look everybody, welcome ${member}!",
+               "${member} new number who dis",
+               "I love the smell of ${member} in the morning.",
+               "Wure welcomes you to the café, ${member}!",
+               "We were ~~not~~ expecting you... ${member}.",
+               "${member} does not simply join Coding Café without being welcomed!",
+               "Welcome To Coding Café ${member}, have a great time here! :stuck_out_tongue_winking_eye:",
+               "First rule about Coding Café ${member}, we don't talk about Coding Café."
+             ]
+}

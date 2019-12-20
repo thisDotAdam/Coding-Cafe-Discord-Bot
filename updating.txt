@@ -1,0 +1,33 @@
+cc.blackjack            DONE
+cc.cb                   DONE
+cc.coffeeShop           MAINLY DONE, BUT A FUNCTION THAT HANDLES WHAT HAPPENES COULD BE USED TO SHORTEN CODE.
+cc.coinFlip             DONE
+cc.def                  DONE
+cc.dieRole              DONE
+cc.drinkCoffee          MAINLY DONE, BUT WOULD LIKE TO MAKE ADDING COFFEE TO THE CAFFEINE METER DYNAMIC.
+cc.echo                 DONE
+cc.farm                 DONE
+cc.gamble               DONE
+cc.give                 DONE
+cc.help                 
+cc.kick
+cc.leaderboard
+cc.listMutes
+cc.makeCoffee
+cc.match
+cc.listMutes
+cc.makeCoffee
+cc.match
+cc.listMutescc.nsfw
+cc.picture
+cc.ping
+cc.profile
+cc.pictureColor
+cc.purge
+cc.quote
+cc.random
+cc.roleColor
+cc.roulette           DONE
+cc.unmute
+cc.version
+cc.welcomeMessage
